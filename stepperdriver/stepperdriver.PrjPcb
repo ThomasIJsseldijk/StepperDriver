@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXVABKYF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for stepperdriver\Design Rule Check - stepperdriver.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
 Value=R1
